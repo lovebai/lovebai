@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovebai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<div>
+<img align="right"  src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
 
-<a href="https://github.com/lovebai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovebai&show_icons=true&bg_color=#ffffff&theme=radical" />
+<a href="https://github.com/lovebai" align="left" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lovebai&show_icons=true&bg_color=#ffffff&theme=radical&hide_border=true" />
 </a>
-<a href="https://github.com/lovebai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovebai&layout=compact" />
+<a href="https://github.com/lovebai" align="right" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovebai&layout=compact&hide_border=true" />
 </a>
+ </div>
 
