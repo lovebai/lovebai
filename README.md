@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/lovebai" align="right" >
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovebai&layout=compact&hide_border=true" />
 </a>
-  <img align="left" height="500" src="https://github.com/lovebai/lovebai/blob/main/a493c78d8202ba6c35f179.gif?raw=true">
-  <img align="right" height="500" src="https://github.com/lovebai/lovebai/blob/main/a493c78d8202ba6c35f179.gif?raw=true">
+  <img height="280" src="https://github.com/lovebai/lovebai/blob/main/a493c78d8202ba6c35f179.gif?raw=true">
  </div>
  
 
