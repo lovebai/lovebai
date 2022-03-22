@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovebai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lovebai&show_icons=true&hide_border=true&bg_color=#ffffff&theme=radical" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovebai&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lovebai&show_icons=true&hide_border=true&bg_color=#ffffff&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovebai&layout=compact&hide_border=true" />
 
 
   <!--<img height="280" src="https://github.com/lovebai/lovebai/blob/main/a493c78d8202ba6c35f179.gif?raw=true">-->
