@@ -1,4 +1,6 @@
-<div class="d-flex" style="display: flex;" width="100%">
+<div class="d-flex" style="display: flex;" width="100%" align="center">
+<img width="20%" src="https://avatars.githubusercontent.com/u/42148495?v=4" />
+<img width="20%" src="https://avatars.githubusercontent.com/u/42148495?v=4" />
 <img width="20%" src="https://avatars.githubusercontent.com/u/42148495?v=4" />
 <img width="20%" src="https://avatars.githubusercontent.com/u/42148495?v=4" />
 </div>
