@@ -82,15 +82,19 @@ NodeParam: &NodeParam {type: http, interval: 86400, health-check: {enable: true,
 
 # 节点订阅
 proxy-providers: 
-  Node-1:
+  provider1:
     url: '订阅地址'
     <<: *NodeParam
-    path: './proxy_provider/providers.yaml'
+    # path: './proxy_provider/providers.yaml'
+    override:
+      additional-prefix: "[provider1]"
 
-  # Node-2:
-  #   url: '替换订阅链接'
-  #   <<: *NodeParam
-  #   path: './proxy_provider/providers.yaml'
+  provider2:
+    url: '订阅地址'
+    <<: *NodeParam
+    # path: './proxy_provider/providers.yaml'
+    override:
+      additional-prefix: "[provider2]"
 
 # 节点筛选
 FilterHK: &FilterHK '^(?=.*(香港|HK|Hong|🇭🇰))^(?!.*(网站|地址|剩余|过期|时间|有效|网址|禁止|邮箱|发布|客服|订阅|节点)).*$'
